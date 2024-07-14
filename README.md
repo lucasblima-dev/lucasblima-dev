@@ -1,12 +1,16 @@
 ## Olá! Eu sou o Lucas Lima, estudante de Ciência da Computação e apaixonado por tecnologia!
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasblima-dev&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasblima-dev&layout=compact&theme=radical&langs_count=8&card_width=320" />
-  </a>
+  <span>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasblima-dev&theme=radical" />
+    </a>
+  </span>
+  <span>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasblima-dev&layout=compact&theme=radical&langs_count=8&card_width=320" />
+    </a>
+  </span>
 </div>
 
 <div style="display: inline_block"><br>
