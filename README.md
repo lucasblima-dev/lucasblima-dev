@@ -1,11 +1,13 @@
-## Olá! Eu sou o Lucas Lima, estudante de Ciência da Computação e apaixonado por tecnologia!
+## Olá! Eu sou o Lucas Lima ✌️
+
+Estudante de Ciência da Computação, apaixonado por tecnologia e finanças! Atualmente, sou integrante do projeto Estartando Devs 2024, com foco em C#, .NET e MySQL. Além disso, estudo desenvolvimento WEB front-end com HTML, CSS, JavaScript, TypeScript, React e NextJS.
 
 <div style="display: flex">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasblima-dev&theme=radical" />
+        <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=lucasblima-dev&theme=radical" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasblima-dev&layout=compact&theme=radical&langs_count=8&card_width=320" />
+        <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasblima-dev&layout=compact&theme=radical&langs_count=8&card_width=320" />
     </a>
 </div>
 
@@ -25,5 +27,4 @@
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasblima-dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-lima-6446591b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
