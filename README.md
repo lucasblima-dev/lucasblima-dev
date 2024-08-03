@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Lima ✌️
 
-Estudante de Ciência da Computação, apaixonado por tecnologia e finanças! Atualmente, sou integrante do projeto Estartando Devs 2024, com foco em C#, .NET e MySQL. Além disso, estudo desenvolvimento WEB front-end com HTML, CSS, JavaScript, TypeScript, React e NextJS.
+Estudante de Ciência da Computação, apaixonado por tecnologia e finanças! Atualmente, sou integrante do projeto Estartando Devs 2024, com foco em C#, .NET e SQL Server. Além disso, estudo desenvolvimento WEB front-end com HTML, CSS, JavaScript, TypeScript, React e NextJS.
 
 <div style="display: flex">
     <a href="https://github.com/anuraghazra/github-readme-stats">
