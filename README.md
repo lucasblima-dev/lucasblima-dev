@@ -12,7 +12,7 @@ Estudante de Ciência da Computação, apaixonado por tecnologia e finanças! At
         srcset="https://github-readme-stats.vercel.app/api?username=lucasblima-dev&show_icons=true"
         media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=lucasblima.dev&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lucasblima-dev&show_icons=true" />
     </picture>
     <a href="https://github.com/anuraghazra/convoychat">
         <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasblima-dev&layout=compact&theme=radical&langs_count=8&card_width=320" />
