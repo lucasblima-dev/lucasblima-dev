@@ -3,7 +3,10 @@
 Estudante de Ciência da Computação, apaixonado por tecnologia e finanças! Atualmente, sou estagiário de desenvolvimento Full-stack no DTI da UERN.
 
 <div style="display: flex">
-    <picture>
+    <a href="https://github.com/anuraghazra/convoychat">
+        <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=lucasblima-dev&theme=radical" />
+    </a>
+    <!-- <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=lucasblima-dev&show_icons=true&theme=dark"
         media="(prefers-color-scheme: dracula)"
@@ -13,7 +16,7 @@ Estudante de Ciência da Computação, apaixonado por tecnologia e finanças! At
         media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats.vercel.app/api?username=lucasblima-dev&show_icons=true" />
-    </picture>
+    </picture> -->
     <a href="https://github.com/anuraghazra/convoychat">
         <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasblima-dev&layout=compact&theme=radical&langs_count=8&card_width=320" />
     </a>
