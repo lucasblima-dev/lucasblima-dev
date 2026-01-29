@@ -4,7 +4,8 @@ Estudante de Ciência da Computação, apaixonado por tecnologia e finanças! At
 
 <div style="display: flex">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=lucasblima-dev&theme=radical" />
+        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasblima-dev)](https://github.com/anuraghazra/github-readme-stats)
+        <!-- <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=lucasblima-dev&theme=radical" /> -->
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
         <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasblima-dev&layout=compact&theme=radical&langs_count=8&card_width=320" />
