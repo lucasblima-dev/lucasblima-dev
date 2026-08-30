@@ -18,8 +18,8 @@ Estou no 6º período de **Ciência da Computação** na UERN, dividindo meu tem
 
 ### Onde estou atuando
 
-**🔹 Estagiário de Desenvolvimento — SEFAZ/RN (Secretaria de Tributação do Estado do RN)**
-Foco em desenvolvimento mobile com **.NET MAUI**, atuando na atualização do App Auditor (legado). Também trabalho com **C#** no backend e com **Python** junto ao time de dados, apoiando modelos de ML, chatbots e embeddings.
+**🔹 Estagiário de Desenvolvimento — SEFAZ/RN (Secretaria da Fazenda do Estado do RN)**
+Foco em desenvolvimento mobile com **.NET MAUI**, atuando na atualização do App Auditor e Nota Potiguar (legados). Também trabalho com **C#** no backend e com **Python** junto ao time de dados, apoiando modelos de ML, chatbots e embeddings.
 
 **🔹 Iniciação Científica (Bolsista CNPq) — Detecção de Câncer de Colo de Útero**
 Bolsista CNPq, desenvolvendo uma rede neural para apoiar a detecção de alterações cervicais em imagens colposcópicas, com o objetivo de contribuir para o diagnóstico precoce do câncer de colo de útero.
