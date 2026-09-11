@@ -27,11 +27,11 @@ Bolsista CNPq, desenvolvendo uma rede neural para apoiar a detecção de altera�
 ### Projetos em destaque
 
 - **UERN Assist** — Ferramenta de chamados internos da universidade (`C#`, `Docker`, `PostgreSQL`) que reduziu em mais de 85% os atrasos nos serviços de manutenção e melhorou a rastreabilidade dos problemas.
-- **Vistor AI** — Plataforma mobile de inspeção técnica predial, com classificação de imagens por IA para apoiar a avaliação de risco em estruturas. Responsável pelo backend e infraestrutura (`FastAPI`, `PostgreSQL/PostGIS`, `MinIO`, `Redis`, `Docker Compose`), com um colaborador no frontend em `Flutter`.
-- **Plan-Academico** — Sistema web que gera planejamentos acadêmicos otimizados para alunos de Ciência da Computação da UERN (Natal), aplicando Teoria dos Grafos sobre a matriz curricular (`React`, `TypeScript`, `React Flow` no frontend; `Python`, `FastAPI`, `NetworkX` no backend).
+- [Vistor-AI](https://github.com/lucasblima-dev/vistor-ai) — Plataforma mobile de inspeção técnica predial, com classificação de imagens por IA para apoiar a avaliação de risco em estruturas. Responsável pelo backend e infraestrutura (`FastAPI`, `PostgreSQL/PostGIS`, `MinIO`, `Redis`, `Docker Compose`), com um colaborador no frontend em `Flutter`.
+- [Plan-Academico](https://github.com/lucasblima-dev/plan-academico) — Sistema web que gera planejamentos acadêmicos otimizados para alunos de Ciência da Computação da UERN (Natal), aplicando Teoria dos Grafos sobre a matriz curricular (`React`, `TypeScript`, `React Flow` no frontend; `Python`, `FastAPI`, `NetworkX` no backend).
 
 > [!IMPORTANT]
-> Aualmente, o Plan-Academico econtra-se em fase de registro de software
+> Aualmente, o [Plan-Academico](https://github.com/lucasblima-dev/plan-academico) econtra-se em fase de registro de software
 
 ### Tecnologias e Ferramentas
 
