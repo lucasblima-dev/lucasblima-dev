@@ -29,6 +29,8 @@ Bolsista CNPq, desenvolvendo uma rede neural para apoiar a detecção de altera�
 - **UERN Assist** — Ferramenta de chamados internos da universidade (`C#`, `Docker`, `PostgreSQL`) que reduziu em mais de 85% os atrasos nos serviços de manutenção e melhorou a rastreabilidade dos problemas.
 - **Vistor AI** — Plataforma mobile de inspeção técnica predial, com classificação de imagens por IA para apoiar a avaliação de risco em estruturas. Responsável pelo backend e infraestrutura (`FastAPI`, `PostgreSQL/PostGIS`, `MinIO`, `Redis`, `Docker Compose`), com um colaborador no frontend em `Flutter`.
 - **Plan-Academico** — Sistema web que gera planejamentos acadêmicos otimizados para alunos de Ciência da Computação da UERN (Natal), aplicando Teoria dos Grafos sobre a matriz curricular (`React`, `TypeScript`, `React Flow` no frontend; `Python`, `FastAPI`, `NetworkX` no backend).
+
+> [!IMPORTANT]
 > Aualmente, o Plan-Academico econtra-se em fase de registro de software
 
 ### Tecnologias e Ferramentas
@@ -38,7 +40,6 @@ Bolsista CNPq, desenvolvendo uma rede neural para apoiar a detecção de altera�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" title=".NET Core" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
 </div>
 
@@ -59,6 +60,7 @@ Bolsista CNPq, desenvolvendo uma rede neural para apoiar a detecção de altera�
 
 **Infraestrutura**
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash/Shell" title="Bash/Shell" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
